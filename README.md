@@ -1,2 +1,4 @@
 # Basic-Python-learning-
-python is really fun.
+def python():
+   print("python is really fun.")
+   retun
